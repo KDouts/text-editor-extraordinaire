@@ -14,13 +14,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1",
-    "if-env": "^1.0.4"
+  "bugs": {
+    "url": "https://github.com/KDouts/text-editor-extraordinaire/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KDouts/text-editor-extraordinaire.git"
+  },
+  "homepage": "https://github.com/KDouts/text-editor-extraordinaire#readme",
+  "dependencies": {
+    "if-env": "^1.0.4"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
