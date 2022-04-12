@@ -9,10 +9,10 @@ When adding text to the page it will be edited to look like it is being written 
 # Table of Contents
 
 
-    -[Description](#description)
-    -[Installation](#installation)
-    -[Deployment Link] (#deployed)
-    -[App Screenshot](#app-screenshot)
+-[Description](#description)
+-[Installation](#installation)
+-[Deployed](#deployed-link)
+-[App Screenshot](#app-screenshot)
     
 
 # Installation
